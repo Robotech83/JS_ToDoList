@@ -3,6 +3,9 @@
 A simple, browser-based **to-do list application** built with **vanilla JavaScript**, HTML, and CSS.  
 This project focuses on DOM manipulation, event handling, and basic state management **without frameworks**.
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://robotech83.github.io/JS_ToDoList/)
+
+
 ---
 
 ## 🎯 Project Purpose
