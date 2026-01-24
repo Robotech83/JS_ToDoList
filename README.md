@@ -35,6 +35,11 @@ This project was built to:
 - **JavaScript (ES6+)**
 
 ---
+🚀 Live Demo
+👉 Try it here:
+https://robotech83.github.io/JS_ToDoList/
+
+The demo runs entirely in the browser and requires no setup.
 
 ## 📂 Project Structure
 
